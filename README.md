@@ -1,4 +1,30 @@
-### Hi there 👋
+## Hi, I'm Chence Shi :smiley:
+
+<p align="center">
+<img src = https://images.pexels.com/photos/3785930/pexels-photo-3785930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 width="600" height="400"/>
+</p>
+
+```python
+class Chence_Shi:
+  pronouns = "he/him";
+  hobbies = {"programming", "gaming", "tennis" "photography"};
+  university = "California State University, Fullerton";
+  major = "Computer Science B.S";
+  languages = {
+                "proficient": ["C++", "Java"],
+                "acquainted": ["Python"],
+                "learning": ["Html", "CSS", "Javascript"],
+              }
+```
+<p align = "center">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=fLexsooP&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=material-palenight" style="border-radius:40px;">
+</p>
+<!--GitHub Most Used Languages-->
+<p align = "center">
+<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fLexsooP&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
+</p>
+<p align="left">
+
 
 <!--
 **fLexsooP/fLexsooP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

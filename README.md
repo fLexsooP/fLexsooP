@@ -12,9 +12,8 @@ class Chence_Shi:
   university = "California State University, Fullerton";
   major = "Computer Science B.S";
   languages = {
-                "proficient": ["C++", "Java"],
-                "acquainted": ["Python"],
-                "learning": ["Html", "CSS", "Javascript"],
+                "proficient": ["C++", "Java", "Python"],
+                "improving": ["Html", "CSS", "Javascript"]
               }
 ```
 <p align = "center">

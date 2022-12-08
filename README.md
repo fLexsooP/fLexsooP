@@ -16,9 +16,11 @@ class Chence_Shi:
                 "improving": ["Html", "CSS", "Javascript"]
               }
 ```
+<!--
 <p align = "center">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=fLexsooP&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=material-palenight" style="border-radius:40px;">
 </p>
+-->
 <p align = "center">
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fLexsooP&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 </p>

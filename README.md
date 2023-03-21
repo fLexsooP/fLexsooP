@@ -7,10 +7,10 @@
 
 ```python
 class Chence_Shi:
-  pronouns = "he/him";
-  hobbies = {"programming", "gaming", "tennis" "photography"};
-  university = "California State University, Fullerton";
-  major = "Computer Science B.S";
+  pronouns = "he/him"
+  hobbies = ["programming", "gaming", "tennis" "photography"]
+  university = "California State University, Fullerton"
+  major = "Computer Science B.S"
   languages = ["C++", "Java", "Python", "Html", "CSS", "Javascript"]
 
 ```

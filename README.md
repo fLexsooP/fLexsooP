@@ -11,10 +11,8 @@ class Chence_Shi:
   hobbies = {"programming", "gaming", "tennis" "photography"};
   university = "California State University, Fullerton";
   major = "Computer Science B.S";
-  languages = {
-                "proficient": ["C++", "Java", "Python"],
-                "improving": ["Html", "CSS", "Javascript"]
-              }
+  languages = ["C++", "Java", "Python", "Html", "CSS", "Javascript"]
+
 ```
 <!--
 <p align = "center">

@@ -4,6 +4,7 @@
 <p align="center">
 <img src = https://images.pexels.com/photos/3785930/pexels-photo-3785930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 width="600" height="400"/>
 </p> -->
+<img src="wave.svg" alt="wave" width="100%" height="200"/>
 
 I'm a passionate computer science student with a keen interest in programming, and I'm currently focused on web development. As a coding enthusiast, I love to create innovative and user-friendly websites that make a positive impact. I'm constantly exploring new technologies and frameworks to enhance my skills and build exciting projects. Check out my GitHub profile to see my latest coding adventures and contributions to the coding community!
 
@@ -19,6 +20,7 @@ I'm a passionate computer science student with a keen interest in programming, a
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:4px">
 </p>
+
 ## 🛠 My Toolkit
 
 <p align="left">

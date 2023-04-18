@@ -6,7 +6,7 @@
 </p> -->
 <img src="wave.svg" alt="wave" width="100%" height="200"/>
 
-I'm a passionate computer science student with a keen interest in programming, and I'm currently focused on web development. As a coding enthusiast, I love to create innovative and user-friendly websites that make a positive impact. I'm constantly exploring new technologies and frameworks to enhance my skills and build exciting projects. Check out my GitHub profile to see my latest coding adventures and contributions to the coding community!
+<p style="font-size: 18px; letter-spacing: 2.5px; line-height: 30px; text-shadow: 2px 2px 5px green; color: #0a332b">I'm a passionate computer science student with a keen interest in programming, and I'm currently focused on web development. As a coding enthusiast, I love to create innovative and user-friendly websites that make a positive impact. I'm constantly exploring new technologies and frameworks to enhance my skills and build exciting projects. Check out my GitHub profile to see my latest coding adventures and contributions to the coding community!</p>
 
 ## 💡 My Skills
 

@@ -22,7 +22,7 @@
 <!-- Python -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
 <!-- Go -->
-<img src="https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=#08A6D0" alt="go" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/go-white?style=for-the-badge&logo=go&logoColor=#08A6D0" alt="go" style="vertical-align:top; margin:4px">
 <!-- Java -->
 <img src="https://img.shields.io/badge/Java-%23C74634?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
 <!-- C++ -->

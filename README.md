@@ -15,6 +15,8 @@
 ## 💡 My Skills
 
 <p align="left">
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-%23C74634?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" style="vertical-align:top; margin:4px">
 <!-- Typescript -->
@@ -23,8 +25,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
 <!-- Go -->
 <img src="https://img.shields.io/badge/go-F7F7F7?style=for-the-badge&logo=go&logoColor=08A6D0" alt="go" style="vertical-align:top; margin:4px">
-<!-- Java -->
-<img src="https://img.shields.io/badge/Java-%23C74634?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
 <!-- C++ -->
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
 <!-- HTML -->
@@ -39,7 +39,6 @@
 <p align="left">
 <!-- Git -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
-#6CB52D
 <!-- Spring -->
 <img src="https://img.shields.io/badge/spring-6CB52D.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top; margin:4px">
 <!-- Node -->

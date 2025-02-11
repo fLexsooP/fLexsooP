@@ -6,7 +6,7 @@
 </p> -->
 <img src="wave.svg" alt="wave" width="100%" height="200"/>
 
-<p>I'm a passionate computer science student with a keen interest in programming, and I'm currently focused on web development. As a coding enthusiast, I love to create innovative and user-friendly websites that make a positive impact. I'm constantly exploring new technologies and frameworks to enhance my skills and build exciting projects. Check out my GitHub profile to see my latest coding adventures and contributions to the coding community!</p>
+<p>I'm a passionate computer science background software engineer with a keen interest in programming, and I'm currently focused on back-end web development. As a coding enthusiast, I love to create innovative and scalable websites that make a positive impact. I'm constantly exploring new technologies and frameworks to enhance my skills and build exciting projects. Check out my GitHub profile to see my latest coding adventures and contributions to the coding community!</p>
 <br /><br />
 <!--
 **Currently Working On** &nbsp; &nbsp; [**similarity-api**](https://github.com/fLexsooP/similarity-api)

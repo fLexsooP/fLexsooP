@@ -17,12 +17,12 @@
 <p align="left">
 <!-- Java -->
 <img src="https://img.shields.io/badge/Java-%23C74634?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
+<!-- Python -->
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" style="vertical-align:top; margin:4px">
 <!-- Typescript -->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="vertical-align:top; margin:4px">
-<!-- Python -->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
 <!-- Go -->
 <img src="https://img.shields.io/badge/go-F7F7F7?style=for-the-badge&logo=go&logoColor=08A6D0" alt="go" style="vertical-align:top; margin:4px">
 <!-- C++ -->
@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
 <!-- Spring -->
 <img src="https://img.shields.io/badge/spring-6CB52D.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top; margin:4px">
+<!-- Flask -->
+<img src="https://img.shields.io/badge/Flask-F7F7F7.svg?style=for-the-badge&logo=flask&logoColor=000000" alt="flask" style="vertical-align:top; margin:4px">
 <!-- Node -->
 <img src="https://img.shields.io/badge/node.js-2320232.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" style="vertical-align:top; margin:4px">
 <!-- Express -->
@@ -57,8 +59,6 @@
 <img src="https://img.shields.io/badge/Docker-FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=blue" alt="docker" style="vertical-align:top; margin:4px">
 <!-- AWS -->
 <img src="https://img.shields.io/badge/aws-F79402.svg?style=for-the-badge&logo=amazon&logoColor=000000" alt="aws" style="vertical-align:top; margin:4px">
-<!-- Flask -->
-<img src="https://img.shields.io/badge/Flask-F7F7F7.svg?style=for-the-badge&logo=flask&logoColor=000000" alt="flask" style="vertical-align:top; margin:4px">
 <!-- Vite -->
 <img src="https://img.shields.io/badge/vite-%23906BFE.svg?style=for-the-badge&logo=vite&logoColor=%23FEC016" alt="vite" style="vertical-align:top; margin:4px">
 <!-- Mysql -->
@@ -67,8 +67,6 @@
 <img src="https://img.shields.io/badge/Postgresql-31648D?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgressql" style="vertical-align:top; margin:4px">
 <!-- Mongodb -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
-<!-- Heroku -->
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" style="vertical-align:top; margin:4px">
 <!-- Tailwind -->
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" style="vertical-align:top; margin:4px">
 <!-- Vercel -->
@@ -81,7 +79,7 @@
 
 ## 🔗 Links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chence-shi-26b4a11b5/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chence-shi/)
 <!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 <!--
